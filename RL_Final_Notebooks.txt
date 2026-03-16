@@ -1,6 +1,6 @@
 D3QN:
-RL_Final_Project_MiniGrid_D3QN_307765230_307915074 - https://colab.research.google.com/drive/1m7cMuRKdBdjyfbn0mUKJNPfCjY97uUxQ?usp=sharing
-RL_Final_Project_MiniGrid_D3QN_307765230_307915074_Evaluation_Notebook - https://colab.research.google.com/drive/1I1i_TQXymzBkZ0H4LUANdnT_FOZMC0j6?usp=sharing
+RL_Final_Project_MiniGrid_D3QN - https://colab.research.google.com/drive/1m7cMuRKdBdjyfbn0mUKJNPfCjY97uUxQ?usp=sharing
+RL_Final_Project_MiniGrid_D3QN_Evaluation_Notebook - https://colab.research.google.com/drive/1I1i_TQXymzBkZ0H4LUANdnT_FOZMC0j6?usp=sharing
 
 Using the Evaluation Notebook:
 
@@ -12,8 +12,8 @@ Using the Evaluation Notebook:
 
 
 PPO:
-RL_Final_Project_MiniGrid_PPO_Agent_307765230_ 307915074 - https://colab.research.google.com/drive/1rNRP1w-F70boZwTJLeC5jnsFUz-UBtYO?usp=sharing
-EVALUATION_NOTEBOOK_PPO_307765230_ 307915074 - https://colab.research.google.com/drive/1xaXOvx-seGtIECX2R92oCwK5Az7tS7sO?usp=sharing
+RL_Final_Project_MiniGrid_PPO_Agent - https://colab.research.google.com/drive/1rNRP1w-F70boZwTJLeC5jnsFUz-UBtYO?usp=sharing
+EVALUATION_NOTEBOOK_PPO - https://colab.research.google.com/drive/1xaXOvx-seGtIECX2R92oCwK5Az7tS7sO?usp=sharing
 
 Using the Evaluation Notebook:
 
